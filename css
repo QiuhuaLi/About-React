@@ -1,8 +1,0 @@
-1、如何让一个div全屏显示
-		  position：absolute;
-		  top：0；right：0；bottom：0；left：0;
-		  bakground:rgba(55,55,55,.5);//rgba同时设置颜色（这里是灰色）和透明度
-2、如何让一个div居中显示
-			width:300px;height:200px;background:#fff;
-			position:absolute;top:50%;left:50%
-			margin-top:-100px;margin-left:-150px;//注意top和left是以左上角为中心的，要让整个元素水平居中，需要再做这一步
